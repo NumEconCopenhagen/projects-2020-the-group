@@ -2,7 +2,7 @@
 
 Our project is titled **Projekt 1: Dataanalasys COVID-19** and is about EXPLAIN.
 
-The **results** of the project can be seen from running [Projekt 1: Dataanalasys COVID-19.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running Projekt 1: Dataanalasys COVID-19.ipynb.
 
 This **loades two datasets**:
 
