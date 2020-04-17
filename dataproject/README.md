@@ -15,7 +15,7 @@ Assuming a constant rate of testing, and that data has not been manipulated, cou
 
 **two datasets**:
 
-For this we use following .csv - files: 
+For this project, we use following .csv - files: 
 
 1. time_series_covid19_confirmed_global.csv
 2. time_series_covid19_deaths_global.csv
