@@ -1,11 +1,12 @@
 # Data analysis project
 
+
+**Introduction**
 In this data analysis project we will focus on reportet and death cases of COVID-19 in select countires by using Novel Coronavirus (COVID-19) Cases Data. We will use the data to compare reported and death cases in countries with different approches to the outbreak. This can give us a better undertanding of the affect of the outbreak and how the handling by governments affects the outbreak. The select countries we will use are Italy, Spain, China, Iran, USA, South korea and Denmark
 
 The **results** of the project can be seen from running Projekt 1: Dataanalysis COVID-19.ipynb.
 
 **Conclusion**
-
 We find that there have been some large differences in the development of the Covid-19 virus across countries. China and South Korea are known to have taken very quick action, and we can see them breaking the curve of exponential growth, relatively quickly. This is especially telling for China, which has a very large population and therefore potential for a huge amount of infected. However, we note that some sources do not consider the Chinese data as representative, and speculate that it may be manipulated. Therefore the data from China should be viewed with caution.
 
 The US, Italy and Spain have, on the other hand, been relatively slow to adapt countermeasures, and here we see an explosive growth, which is yet to flatten. When adjusting for population, we find that China and South Korea have been far more successful than the US, Italy, Spain and Iran at tackling the virus.
