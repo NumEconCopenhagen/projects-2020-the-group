@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **Projekt 1: Dataanalasys COVID-19** and is about EXPLAIN.
+In this data analysis project we will focus on reportet and death cases of COVID-19 in select countires by using Novel Coronavirus (COVID-19) Cases Data. We will use the data to compare reported and death cases in countiries with different approches to the outbreak such as South Korea and the U.S. This can give us a better undertanding of the affect of the outbreak and how the approch taken by governments affect the outbreak. The select countries we will use are Italy, Spain, China, Iran, USA, South korea and Denmark
 
 The **results** of the project can be seen from running Projekt 1: Dataanalysis COVID-19.ipynb.
 
